@@ -1,10 +1,16 @@
 my answers
-<<<<<<< HEAD
+
 hoi
-=======
-hean
-drik
-<<<<<<< HEAD
->>>>>>> 20803d05c6a9d2ca1c583a2f1d7f0b4d5a40a05c
-=======
->>>>>>> 022f1da9bc3b2b5285444a08bb5f1c13c78f9dac
+
+
+
+
+
+
+
+
+
+
+
+
+
