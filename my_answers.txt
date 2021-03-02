@@ -4,7 +4,10 @@ hoi
 =======
 First time to use github , pretty exciting. I wonder if chinese characters would work as well
 
-今天是第一次使用GitHub， 现在我的数据科学技巧不那么特别但是希望可以一直改善我的能力
+今天是第一次使用GitHub， 还有点难对我来说， 很可能是因为现在我的数据科学本领不那么大但是希望未来可以改善我的体会成为
+精通的数据科学家
+
+谢谢hannes为这个课程， 很有用
 
 
 
