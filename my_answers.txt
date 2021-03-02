@@ -2,6 +2,9 @@ my answers
 <<<<<<< HEAD
 hoi
 =======
+First time to use github , pretty exciting. I wonder if chinese characters would work as well
+
+今天是第一次用GitHub， 现在我的数据科学技巧不那么特别但是希望可以一直改善我的能力
 
 
 
@@ -11,8 +14,6 @@ hoi
 
 
 
-hean
-drik
 <<<<<<< HEAD
 >>>>>>> 20803d05c6a9d2ca1c583a2f1d7f0b4d5a40a05c
 =======
