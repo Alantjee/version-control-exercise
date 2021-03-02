@@ -1,2 +1,7 @@
 my answers
-喂你好
+<<<<<<< HEAD
+hoi
+=======
+hean
+drik
+>>>>>>> 20803d05c6a9d2ca1c583a2f1d7f0b4d5a40a05c
